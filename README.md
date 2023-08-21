@@ -14,7 +14,7 @@
 
 Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
 
-* **#0** - 21/08/23 | Fácil | [`EL FAMOSO "FIZZ BUZZ"`]
+* **#0** - 21/08/23 | Fácil | [`EL FAMOSO "FIZZ BUZZ"`](https://github.com/ludagoli/los-que-escriben-codigo/blob/main/Retos/Reto%20%230%20-%20EL%20FAMOSO%20FIZZ%20BUZZ%20%5BF%C3%A1cil%5D/ejercicio.md)
 * **#1** - 28/08/23 | Fácil | [`EL "LENGUAJE HACKER"`]
 * **#2** - 04/09/23 | Media | [`EL PARTIDO DE TENIS`]
 * **#3** - 11/09/23 | Media | [`EL GENERADOR DE CONTRASEÑAS`]
